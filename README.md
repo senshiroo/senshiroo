@@ -10,9 +10,9 @@
 - **Accurate Builds**: I replicate real-world locations or create custom environments, my work is precise and high-quality.
 - **Custom Maps**: I deliver detailed, engaging maps that fit your vision and gameplay needs.
 
-### Ongoing game development
+### Ongoing Development
 
-- **London Crossway** | **Project Lead Developer**
+- **Roblox London Crossway** | **Project Lead Developer**
 
 Game Developer | Builder & Designer | Organizer
 
