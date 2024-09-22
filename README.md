@@ -1,5 +1,7 @@
 # **Hello, my name's Senshiro**
 
+Game Developer | Builder & Designer | Organizer
+
 # My Services
 
 ### About Me
@@ -13,8 +15,6 @@
 ### Ongoing Development
 
 - **Roblox London Crossway** | **Project Lead Developer**
-
-Game Developer | Builder & Designer | Organizer
 
 **Find @Cloudware on Twitter and Discord.
 Find my linktr.ee under.**
