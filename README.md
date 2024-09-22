@@ -12,8 +12,8 @@
 
 Game Developer | Builder & Designer | Organizer
 
-Find @Cloudware on Twitter and Discord.
-Find my linktr.ee under.
+**Find @Cloudware on Twitter and Discord.
+Find my linktr.ee under.**
 
 -https://x.com/CloudwareEU
 -https://discord.gg/wUY4B2ds8N
