@@ -11,3 +11,10 @@
 - **Custom Maps**: I deliver detailed, engaging maps that fit your vision and gameplay needs.
 
 Game Developer | Builder & Designer | Organizer
+
+Find @Cloudware on Twitter and Discord.
+Find my linktr.ee under.
+
+-https://x.com/CloudwareEU
+-https://discord.gg/wUY4B2ds8N
+-https://linktr.ee/senshiroo
