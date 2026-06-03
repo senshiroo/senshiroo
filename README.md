@@ -1,4 +1,4 @@
-# **Hello, my name's Senshiro**
+# **Hello, my name's VERSE**
 
 Game Developer | Builder & Designer | Organizer
 
